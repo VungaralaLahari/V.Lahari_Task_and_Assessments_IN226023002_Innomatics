@@ -1,0 +1,1 @@
+print("FAST-API Assignment")
